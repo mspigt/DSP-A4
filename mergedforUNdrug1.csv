@@ -1,0 +1,65 @@
+Country,latitude,longitude,Year,Metabolite,Percentage of the population,source
+Austria,36.9148511,-4.7534501,2020,cannabis,6.3,UN world drug report
+Austria,36.9148511,-4.7534501,2020,cocaine,2.42,UN world drug report
+Austria,36.9148511,-4.7534501,2020,amphetamine,2.31,UN world drug report
+Austria,36.9148511,-4.7534501,2020,MDMA,1.47,UN world drug report
+Bulgaria,46.7889169,23.6184909,2020,cannabis,2.4,UN world drug report
+Bulgaria,46.7889169,23.6184909,2020,cocaine,0.6,UN world drug report
+Bulgaria,46.7889169,23.6184909,2020,amphetamine,0.7,UN world drug report
+Bulgaria,46.7889169,23.6184909,2020,MDMA,0.2,UN world drug report
+Bulgaria,46.7889169,23.6184909,2020,Opioids,0.5,UN world drug report
+Bulgaria,46.7889169,23.6184909,2020,Prescription Opioids,0.2,UN world drug report
+Bulgaria,46.7889169,23.6184909,2020,synthetic cannabinoids,0.6,UN world drug report
+Bulgaria,46.7889169,23.6184909,2020,nps,0.6,UN world drug report
+Denmark,55.670249,10.3333283,2021,cannabis,6.3,UN world drug report
+Denmark,55.670249,10.3333283,2021,cocaine,1.5,UN world drug report
+Denmark,55.670249,10.3333283,2021,amphetamine,0.7,UN world drug report
+Denmark,55.670249,10.3333283,2021,MDMA,0.5,UN world drug report
+Greece,43.2097838,-77.6930602,2020,Opiates,0.182,UN world drug report
+Latvia,56.8406494,24.7537645,2020,cannabis,3.9,UN world drug report
+Latvia,56.8406494,24.7537645,2020,cocaine,1.3,UN world drug report
+Latvia,56.8406494,24.7537645,2020,amphetamine,0.6,UN world drug report
+Latvia,56.8406494,24.7537645,2020,MDMA,0.7,UN world drug report
+Latvia,56.8406494,24.7537645,2020,Tranquillizers and sedatives,4.9,UN world drug report
+Latvia,56.8406494,24.7537645,2020,nps,0.3,UN world drug report
+Lithuania,55.3500003,23.7499997,2021,cannabis,4.3,UN world drug report
+Lithuania,55.3500003,23.7499997,2021,cocaine,0.6,UN world drug report
+Lithuania,55.3500003,23.7499997,2021,amphetamine,0.2,UN world drug report
+Lithuania,55.3500003,23.7499997,2021,MDMA,0.4,UN world drug report
+Lithuania,55.3500003,23.7499997,2021,Opiates,0.1,UN world drug report
+Lithuania,55.3500003,23.7499997,2021,Prescription Opioids,0.4,UN world drug report
+Lithuania,55.3500003,23.7499997,2021,Tranquillizers and sedatives,1.4,UN world drug report
+Lithuania,55.3500003,23.7499997,2021,synthetic cannabinoids,0.5,UN world drug report
+Lithuania,55.3500003,23.7499997,2021,nps,1.4,UN world drug report
+Malta,35.8885993,14.4476911,2020,Opioids,0.26,UN world drug report
+Netherlands,52.2434979,5.6343227,2021,cannabis,10.4,UN world drug report
+Netherlands,52.2434979,5.6343227,2020,cannabis,10.1,UN world drug report
+Netherlands,52.2434979,5.6343227,2021,cocaine,2.5,UN world drug report
+Netherlands,52.2434979,5.6343227,2020,cocaine,2.1,UN world drug report
+Netherlands,52.2434979,5.6343227,2021,amphetamine,1.6,UN world drug report
+Netherlands,52.2434979,5.6343227,2020,amphetamine,1.6,UN world drug report
+Netherlands,52.2434979,5.6343227,2021,MDMA,3.9,UN world drug report
+Netherlands,52.2434979,5.6343227,2020,MDMA,4.0,UN world drug report
+Netherlands,52.2434979,5.6343227,2020,Tranquillizers and sedatives,3.5,UN world drug report
+Netherlands,52.2434979,5.6343227,2020,ketamine,2.5,UN world drug report
+Netherlands,52.2434979,5.6343227,2021,4-fa,2.1,UN world drug report
+Slovakia,48.7411522,19.4528646,2020,Opioids,0.121,UN world drug report
+Slovenia,46.1199444,14.8153333,2020,Opioids,0.328,UN world drug report
+Spain,39.3260685,-4.8379791,2020,cannabis,10.5,UN world drug report
+Spain,39.3260685,-4.8379791,2020,cocaine,2.5,UN world drug report
+Spain,39.3260685,-4.8379791,2020,amphetamine,0.8,UN world drug report
+Spain,39.3260685,-4.8379791,2020,MDMA,0.9,UN world drug report
+Spain,39.3260685,-4.8379791,2020,Prescription Opioids,0.6,UN world drug report
+Spain,39.3260685,-4.8379791,2020,Tranquillizers and sedatives,1.3,UN world drug report
+Spain,39.3260685,-4.8379791,2020,synthetic cannabinoids,0.6,UN world drug report
+Spain,39.3260685,-4.8379791,2020,ketamine,0.9,UN world drug report
+Spain,39.3260685,-4.8379791,2020,nps,1.7,UN world drug report
+Sweden,59.6749712,14.5208584,2021,cannabis,4.0,UN world drug report
+Sweden,59.6749712,14.5208584,2020,cannabis,3.8,UN world drug report
+Sweden,59.6749712,14.5208584,2021,cocaine,1.3,UN world drug report
+Sweden,59.6749712,14.5208584,2021,amphetamine,0.7,UN world drug report
+Sweden,59.6749712,14.5208584,2021,MDMA,0.8,UN world drug report
+Sweden,59.6749712,14.5208584,2021,Opioids,2.8,UN world drug report
+Sweden,59.6749712,14.5208584,2021,Opiates,0.2,UN world drug report
+Sweden,59.6749712,14.5208584,2021,Prescription Opioids,2.7,UN world drug report
+Sweden,59.6749712,14.5208584,2021,Tranquillizers and sedatives,2.3,UN world drug report
